@@ -1,0 +1,6 @@
+{
+  "name": "JANSEVA",
+  "description": "Civic grievance reporting & resolution platform powered by Samadhan Didi AI. Aapki Samasya, Samadhan ki Ore.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

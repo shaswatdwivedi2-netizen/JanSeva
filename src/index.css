@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-natural-bg: #f8faf7;
+  --color-natural-surface: #f0f2ef;
+  --color-forest-950: #022c22;
+  --color-forest-900: #064e3b;
+  --color-forest-800: #065f46;
+  --color-forest-700: #047857;
+  --color-forest-600: #059669;
+}
+
+body {
+  background-color: #f8faf7;
+  color: #0f172a;
+}
